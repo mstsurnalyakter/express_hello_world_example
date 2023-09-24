@@ -1,0 +1,18 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Hello World example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "npm"
+  ],
+  "author": "Mst Surnaly Akter",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
